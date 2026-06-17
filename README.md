@@ -1,4 +1,4 @@
-#  Rust Sorting Visualizer
+#  Rust Algorith Sorting Visualizer 
 
 A real-time sorting algorithm visualizer built with Rust and [egui](https://github.com/emilk/egui) via [eframe](https://github.com/emilk/egui/tree/master/crates/eframe). Watch classic (and chaotic) sorting algorithms come to life with animated bar charts.
 
